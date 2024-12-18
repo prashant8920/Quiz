@@ -44,7 +44,7 @@ The **Quiz Game System** is an engaging and educational console-based applicatio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-game-system.git
+  https://github.com/prashant8920/Quiz.git
    cd quiz-game-system
    ```
 
